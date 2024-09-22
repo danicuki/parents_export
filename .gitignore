@@ -1,0 +1,4 @@
+.env
+parents_info.csv
+node_modules/
+.vscode/
